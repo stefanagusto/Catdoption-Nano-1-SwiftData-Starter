@@ -83,7 +83,7 @@ struct PetOwnerView: View {
                 VStack(alignment: .leading){
                     Text("Owned by")
                         .foregroundStyle(.gray)
-                    Text("John Keating")
+                    Text("Khoirunisa")
                 }
             }
             Text("I've just been given the opportunity to study abroad next year, but unfortunately, I can't take her with me. I'm seeking good-hearted people who would be willing to be Butet's new parents.")
